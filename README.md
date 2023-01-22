@@ -1,4 +1,4 @@
-# <p align="center"> Hello there :wave: </p>
+# <center> Hello there :wave: </center>
 
 <!--
 **Farzan-Alimadadi/Farzan-Alimadadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-### <p align="center">
- :computer: Currently using </p>
+### <center> :computer: Currently using </center>
 
 - **🎛️ Operating System**:
   - Dual booting:
@@ -34,44 +33,36 @@ Here are some ideas to get you started:
 
 ---
 
-### <p align="center">
- 📋 Languages </p>
+### <center> 📋 Languages </center>
 
-<p align="center">
-
+<center>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-</p>
+</center>
 
-### <p align="center">
- 📚 Frameworks, Platforms and Libraries </p>
+### <center> 📚 Frameworks, Platforms and Libraries </center>
 
-<p align="center">
-
+<center>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-</p>
+</center>
 
-### <p align="center">
- 🕓 Version Control </p>
+### <center> 🕓 Version Control </center>
 
-<p align="center">
-
+<center>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farzan-Alimadadi/) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-</p>
+</center>
 
 ---
 
-### <p align="center">
- 📫 How to reach me </p>
+### <center> 📫 How to reach me </center>
 
-<p align="center">
-
+<center>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farzanalimadadi.1999@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzan-alimadadi/)
 
-</p>
+</center>
